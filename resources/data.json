@@ -1,0 +1,355 @@
+{
+  "profile": "https://ugc.production.linktr.ee/017d6b91-eec0-4ebd-8967-af5ab9057b7f_PERFIL-2.png?io=true&size=avatar-v3_0",
+  "name": "N4K_MH",
+  "description": "Speedrunner de Monster Hunter e administrador do MHBR (maior Discord da América Latina). Streamer na Twitch e YouTube, criador de guias completos de progressão para todas as armas desde 2021.",
+  "background": "",
+  "theme": "dark",
+  "redes": [
+    {
+      "nome": "Twitch",
+      "url": "https://www.twitch.tv/n4k_mh",
+      "icon": "fab fa-twitch\" style=\"color: rgb(166, 68, 255);\""
+    },
+    {
+      "nome": "YouTube",
+      "url": "https://www.youtube.com/@N4KMH",
+      "icon": "fab fa-youtube\" style=\"color: rgb(255, 0, 0);\""
+    },
+    {
+      "nome": "Twitter/X",
+      "url": "https://x.com/N4K_MH",
+      "icon": "fab fa-x-twitter"
+    },
+    {
+      "nome": "Discord",
+      "url": "https://discord.gg/ayu6HFuSdu",
+      "icon": "fab fa-discord"
+    }
+  ],
+  "pastas": [
+    {
+      "nome": "MH Wilds • Base",
+      "topic": "Guias de Progressão",
+      "Icon": "MHWilds.png",
+      "links": [
+        {
+          "nome": "Espadão (GS)",
+          "url": "https://docs.google.com/document/d/1e7Z7SZbc1QFCGQOES_wnOL5K1k8_7oyAN776YSXLZL4/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada Longa (LS)",
+          "url": "https://docs.google.com/document/d/1IfcJdOknpuDxI_6GL7gqbePsgU0s0kPvDQD5vgb_56E/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada e Escudo (SnS)",
+          "url": "https://docs.google.com/document/d/1Bb0z44s8fO0iQS0ArxUft8qeswWapb2VBiBIInTfrII/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Duplas-Lâminas (DB)",
+          "url": "https://docs.google.com/document/d/1ZZRF8XJASyNwRbHiCKMiXrIyIMS-yedOwL87pi1NK44/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Martelo (Hammer)",
+          "url": "https://docs.google.com/document/d/19WNuDeDHTWFkhtaVlD32JgueJiugjNGW6LCT9Hi49Mg/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Berrante de Caça (HH)",
+          "url": "https://docs.google.com/document/d/1GWb532e9Pd97Shsr9ULl6AqN3TBtAoqYWUSleLjSthw/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lança (Lance)",
+          "url": "https://docs.google.com/document/d/1XkvxdFM2bCsFzffJQn-vR2Cwdc-iReYMSN8Qpq3eCZs/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lançarma (GL)",
+          "url": "https://docs.google.com/document/d/1_DtbNNpVg_KJTJuY5WZkL2cE7HRJR4KSIe2Oe68fBus/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Transmachado (SwAxe)",
+          "url": "https://docs.google.com/document/d/14iacEFiYckdrw-SgtLdQR3C_KhNWVGhcQOLUiB8x5Hs/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lâmina Dínamo (CB)",
+          "url": "https://docs.google.com/document/d/1ybFbirrFtKdkEXejuFi_j4ZJGEBfMbmHF8hgs4NTH4A/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Glaive Inseto (IG)",
+          "url": "https://docs.google.com/document/d/1IgkcmrRylLAeEiv1hHAlwCvJosNSQQOKKcGxi6a1yMw/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Leve (LBG)",
+          "url": "https://docs.google.com/document/d/1jRiN2Sl2tF3vjOkQQ2n2R3DLQcZCagHbqaTkaAKN7SQ/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Pesado (HBG)",
+          "url": "https://docs.google.com/document/d/1fizikibjkJjpFjDMizNTn0TiQLtehUzhH2UgSTIfcGU/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Arco (Bow)",
+          "url": "https://docs.google.com/document/d/1X_zLE-9IT08s7PKF9PeGaN5hz2YQ0Yt10OT_ett4BaY/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp"
+        }
+      ]
+    },
+    {
+      "nome": "MH Rise • Base",
+      "topic": "Guias de Progressão",
+      "Icon": "MHRise.png",
+      "links": [
+        {
+          "nome": "Espadão (GS)",
+          "url": "https://imgur.com/a/eqDRcuk",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada Longa (LS)",
+          "url": "https://imgur.com/a/dw1jErl",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada e Escudo (SnS)",
+          "url": "https://imgur.com/a/9MDKaZi",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Duplas-Lâminas (DB)",
+          "url": "https://imgur.com/a/wEVQsvE",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Martelo (Hammer)",
+          "url": "https://imgur.com/a/QzHQHV6",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Berrante de Caça (HH)",
+          "url": "https://imgur.com/a/dh4B00M",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lança (Lance)",
+          "url": "https://imgur.com/a/ss1DR3U",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lançarma (GL)",
+          "url": "https://imgur.com/a/8s899lW",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Transmachado (SwAxe)",
+          "url": "https://imgur.com/a/X0lzvsl",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lâmina Dínamo (CB)",
+          "url": "https://imgur.com/a/MMxWSzT",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Glaive Inseto (IG)",
+          "url": "https://imgur.com/a/qynAeAN",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Leve (LBG)",
+          "url": "https://imgur.com/a/ncf2zKY",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Pesado (HBG)",
+          "url": "https://imgur.com/a/KQqT0zW",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Arco (Bow)",
+          "url": "https://imgur.com/a/5x7DYK5",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp"
+        }
+      ]
+    },
+    {
+      "nome": "MH Rise • Sunbreak",
+      "topic": "Guias de Progressão",
+      "Icon": "MHRiseSunbreak.png",
+      "links": [
+        {
+          "nome": "🐲Fatalis trabalhando...👷‍♂️",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "nome": "MH World • Base",
+      "topic": "Guias de Progressão",
+      "Icon": "256x256.png",
+      "links": [
+        {
+          "nome": "Espadão (GS)",
+          "url": "https://docs.google.com/document/d/14J7ibFL5zqACvrjazg-jET0ceb0fJ9KMYmtahSops1w/edit?usp=sharing",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada Longa (LS)",
+          "url": "https://imgur.com/a/ug89oUc",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Espada e Escudo (SnS)",
+          "url": "https://imgur.com/a/p3Gtkho",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Duplas-Lâminas (DB)",
+          "url": "https://imgur.com/a/IHpRlZR",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Martelo (Hammer)",
+          "url": "https://imgur.com/a/q1xB1HK",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Berrante de Caça (HH)",
+          "url": "https://imgur.com/a/vHjIa7c",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lança (Lance)",
+          "url": "https://imgur.com/a/8Mz0r0Z",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lançarma (GL)",
+          "url": "https://imgur.com/a/zkoeYO3",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Transmachado (SwAxe)",
+          "url": "https://imgur.com/a/YKzqo8f",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Lâmina Dínamo (CB)",
+          "url": "https://imgur.com/a/KjqIGLU",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Glaive Inseto (IG)",
+          "url": "https://imgur.com/a/AXEt147",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Leve (LBG)",
+          "url": "https://imgur.com/a/qx5bpiw",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Fuzilarco Pesado (HBG)",
+          "url": "https://imgur.com/a/5e9Un7G",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp"
+        },
+        {
+          "nome": "Arco (Bow)",
+          "url": "https://imgur.com/a/mzOzPPe",
+          "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp"
+        }
+      ]
+    },
+    {
+      "nome": "MH World • Iceborne",
+      "topic": "Guias de Progressão",
+      "Icon": "MHWorld.png",
+      "links": [
+        {
+          "nome": "🐲Fatalis trabalhando...👷‍♂️",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "nome": "Speedrunners BRs",
+      "topic": "Parceiros MHBR",
+      "Icon": "YTicon.png",
+      "links": [
+        {
+          "nome": "Nix • CB",
+          "url": "https://www.youtube.com/@mh_nix",
+          "icon": "fab fa-youtube"
+        },
+        {
+          "nome": "Hills • GS",
+          "url": "https://www.youtube.com/@hills4359",
+          "icon": "fab fa-youtube"
+        },
+        {
+          "nome": "Sleepy • DB",
+          "url": "https://www.youtube.com/@SleepyDB",
+          "icon": "fab fa-youtube"
+        },
+        {
+          "nome": "DanielS • LS",
+          "url": "https://www.youtube.com/@Hunter_DanielS",
+          "icon": "fab fa-youtube"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "topic": "Parceiros MHBR",
+      "nome": "Discord • Monster Hunter Brasil",
+      "url": "https://discord.com/invite/mhbrasil",
+      "icon": "fab fa-discord"
+    },
+    {
+      "topic": "Parceiros MHBR",
+      "nome": "Academia Monster Hunter Brasil",
+      "url": "https://www.youtube.com/@Academia_MH_Brasil",
+      "icon": "YTicon.png"
+    },
+    {
+      "topic": "Parceiros MHBR",
+      "nome": "Schrade Academy",
+      "url": "https://www.youtube.com/@SchradeAcademy",
+      "icon": "YTicon.png"
+    },
+    {
+      "topic": "Apoio",
+      "nome": "Livepix • N4K",
+      "url": "https://livepix.gg/n4k",
+      "icon": "fas fa-link"
+    },
+    {
+      "topic": "Apoio",
+      "nome": "PayPal • N4K",
+      "url": "https://streamelements.com/n4k_mh/tip",
+      "icon": "fas fa-link"
+    },
+    {
+      "topic": "Apoio",
+      "nome": "Afiliado Nuuvem",
+      "url": "https://bit.ly/nuuvemN4KMH",
+      "icon": "fas fa-link"
+    },
+    {
+      "topic": "Apoio",
+      "nome": "Afiliado Green Man Gaming",
+      "url": "https://greenmangaming.sjv.io/qz6K6g",
+      "icon": "fas fa-link"
+    }
+  ]
+}
