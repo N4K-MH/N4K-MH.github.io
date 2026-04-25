@@ -28,7 +28,7 @@
   ],
   "items": [
     {
-      "id": "modw7pejoe4c6cho4d",
+      "id": "modz8hiy0llt03m3h7kk",
       "type": "folder",
       "nome": "MH Wilds • Base",
       "topic": "Guias de Progressão",
@@ -37,6 +37,13 @@
       "textColor": "rgb(225, 170, 70)",
       "fontSize": "14",
       "links": [
+        {
+          "nome": "Playlist de Guias no YouTube",
+          "url": "https://youtube.com/playlist?list=PLEx9h8WgyaorivZ7KsXh18TIYoHlGaC-Z&si=fYGAlhvqOIF89oJm",
+          "icon": "YTicon.png",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": "14"
+        },
         {
           "nome": "Espadão (GS)",
           "url": "https://docs.google.com/document/d/1e7Z7SZbc1QFCGQOES_wnOL5K1k8_7oyAN776YSXLZL4/edit?usp=sharing",
@@ -124,7 +131,7 @@
       ]
     },
     {
-      "id": "modw7pem6rh1btuu8zs",
+      "id": "modz8hj11mlxajaq2d5",
       "type": "folder",
       "nome": "MH Rise • Base",
       "topic": "Guias de Progressão",
@@ -220,7 +227,7 @@
       ]
     },
     {
-      "id": "modw7pephqlhobqk6pf",
+      "id": "modz8hj5fkxpdebjsyp",
       "type": "folder",
       "nome": "MH Rise • Sunbreak",
       "topic": "Guias de Progressão",
@@ -237,7 +244,7 @@
       ]
     },
     {
-      "id": "modw7pepg56r1l0kped",
+      "id": "modz8hj6iel2tqeeuvo",
       "type": "folder",
       "nome": "MH World • Base",
       "topic": "Guias de Progressão",
@@ -333,7 +340,7 @@
       ]
     },
     {
-      "id": "modw7perkx5t6fwmd7j",
+      "id": "modz8hj99f8i2n0f5h",
       "type": "folder",
       "nome": "MH World • Iceborne",
       "topic": "Guias de Progressão",
@@ -345,13 +352,12 @@
         {
           "nome": "🐲Fatalis trabalhando...👷‍♂️",
           "url": "",
-          "textColor": "rgb(20, 130, 200)",
-          "fontSize": "14"
+          "textColor": "rgb(20, 130, 200)"
         }
       ]
     },
     {
-      "id": "modw7peswzv3cibxjjp",
+      "id": "modz8hjaya7bwlc4mu",
       "type": "folder",
       "nome": "Speedrunners BRs",
       "topic": "Parceiros MHBR",
@@ -363,42 +369,42 @@
         {
           "nome": "Nix • CB",
           "url": "https://www.youtube.com/@mh_nix",
-          "icon": "fab fa-youtube\" style=\"color: rgb(255, 170, 0); font-size: 14px;",
+          "icon": "fab fa-youtube\" style=\"font-size: 14px;",
           "fontSize": "14"
         },
         {
           "nome": "Hills • GS",
           "url": "https://www.youtube.com/@hills4359",
-          "icon": "fab fa-youtube\" style=\"color: rgb(255, 170, 0); font-size: 14px;",
+          "icon": "fab fa-youtube\" style=\"font-size: 14px;",
           "fontSize": "14"
         },
         {
           "nome": "Sleepy • DB",
           "url": "https://www.youtube.com/@SleepyDB",
-          "icon": "fab fa-youtube\" style=\"color: rgb(255, 170, 0); font-size: 14px;",
+          "icon": "fab fa-youtube\" style=\"font-size: 14px;",
           "fontSize": "14"
         },
         {
           "nome": "DanielS • LS",
           "url": "https://www.youtube.com/@Hunter_DanielS",
-          "icon": "fab fa-youtube\" style=\"color: rgb(255, 170, 0); font-size: 14px;",
+          "icon": "fab fa-youtube\" style=\"font-size: 14px;",
           "fontSize": "14"
         }
       ]
     },
     {
-      "id": "modw7petxctj3ckmse",
+      "id": "modz8hjbxvl1u2avxr",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Discord • Monster Hunter Brasil",
       "url": "https://discord.com/invite/mhbrasil",
-      "icon": "fab fa-discord\" style=\"color: rgb(86, 98, 246); font-size: 14px;",
-      "iconColor": "rgb(86, 98, 246)",
+      "icon": "fab fa-discord\" style=\"font-size: 14px;",
+      "iconColor": "",
       "textColor": "",
       "fontSize": "14"
     },
     {
-      "id": "modw7petio8rr98qpt9",
+      "id": "modz8hjb1335gzego0xr",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Academia Monster Hunter Brasil",
@@ -406,10 +412,10 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": "14"
+      "fontSize": ""
     },
     {
-      "id": "modw7pet78jubzqb2r3",
+      "id": "modz8hjbnhb3f9030i",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Schrade Academy",
@@ -417,49 +423,49 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": "14"
+      "fontSize": ""
     },
     {
-      "id": "modw7petb3lk30fizg",
+      "id": "modz8hjblxha0c42yu",
       "type": "link",
       "topic": "Apoio",
       "nome": "Livepix • N4K",
       "url": "https://livepix.gg/n4k",
-      "icon": "fas fa-link\" style=\"color: rgb(93, 202, 165); font-size: 14px;",
-      "iconColor": "rgb(93, 202, 165)",
+      "icon": "fas fa-link\" style=\"font-size: 14px;",
+      "iconColor": "",
       "textColor": "",
       "fontSize": "14"
     },
     {
-      "id": "modw7pet6u9ysoh1own",
+      "id": "modz8hjcd73bkw5fp2q",
       "type": "link",
       "topic": "Apoio",
       "nome": "PayPal • N4K",
       "url": "https://streamelements.com/n4k_mh/tip",
-      "icon": "fas fa-link\" style=\"color: rgb(93, 202, 165); font-size: 14px;",
-      "iconColor": "rgb(93, 202, 165)",
+      "icon": "fas fa-link\" style=\"font-size: 14px;",
+      "iconColor": "",
       "textColor": "",
       "fontSize": "14"
     },
     {
-      "id": "modw7petx0t4mqfo1ea",
+      "id": "modz8hjc8ua3vyxxtga",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Nuuvem",
       "url": "https://bit.ly/nuuvemN4KMH",
-      "icon": "fas fa-link\" style=\"color: rgb(93, 202, 165); font-size: 14px;",
-      "iconColor": "rgb(93, 202, 165)",
+      "icon": "fas fa-link\" style=\"font-size: 14px;",
+      "iconColor": "",
       "textColor": "",
       "fontSize": "14"
     },
     {
-      "id": "modw7peutrihi55sqog",
+      "id": "modz8hjcsymntsnp95p",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Green Man Gaming",
       "url": "https://greenmangaming.sjv.io/qz6K6g",
-      "icon": "fas fa-link\" style=\"color: rgb(93, 202, 165); font-size: 14px;",
-      "iconColor": "rgb(93, 202, 165)",
+      "icon": "fas fa-link\" style=\"font-size: 14px;",
+      "iconColor": "",
       "textColor": "",
       "fontSize": "14"
     }
