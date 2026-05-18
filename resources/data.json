@@ -28,7 +28,7 @@
   ],
   "items": [
     {
-      "id": "mpaqqb3mn1yxjc4uk2n",
+      "id": "mpay3u7ndr09ntcp1qt",
       "type": "folder",
       "nome": "MH Wilds • Base",
       "topic": "Guias de Progressão",
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "id": "mpaqqb3oj5z9i70fuc",
+      "id": "mpay3u7q8747rq079n7",
       "type": "folder",
       "nome": "MH Rise • Base",
       "topic": "Guias de Progressão",
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "id": "mpaqqb3rb4kwbtge0z",
+      "id": "mpay3u7tds74m4vk6mp",
       "type": "folder",
       "nome": "MH Rise • Sunbreak",
       "topic": "Guias de Progressão",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "id": "mpaqqb3r5i6z9j7wfc6",
+      "id": "mpay3u7t3wlr4640d3b",
       "type": "folder",
       "nome": "MH World • Base",
       "topic": "Guias de Progressão",
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "id": "mpaqqb3tnu9ogj0qfn",
+      "id": "mpay3u7wb05ds290j25",
       "type": "folder",
       "nome": "MH World • Iceborne",
       "topic": "Guias de Progressão",
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "id": "mpaqqb3vrnrde5terbg",
+      "id": "mpay3u7y2be4l1sejst",
       "type": "folder",
       "nome": "Speedrunners BRs",
       "topic": "Parceiros MHBR",
@@ -447,37 +447,32 @@
         {
           "nome": "Nix • CB",
           "url": "https://www.youtube.com/@mh_nix",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70); font-size: 14px;",
-          "fontSize": "14"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
         },
         {
           "nome": "Hills • GS",
           "url": "https://www.youtube.com/@hills4359",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70); font-size: 14px;",
-          "fontSize": "14"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
         },
         {
           "nome": "Sleepy • DB",
           "url": "https://www.youtube.com/@SleepyDB",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70); font-size: 14px;",
-          "fontSize": "14"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
         },
         {
           "nome": "DanielS • LS",
           "url": "https://www.youtube.com/@Hunter_DanielS",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70); font-size: 14px;",
-          "fontSize": "14"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
         },
         {
           "nome": "Persona Vergil (Kingwel) • Sim",
           "url": "https://www.youtube.com/@Kingwel/playlists",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70); font-size: 14px;",
-          "fontSize": "14"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
         }
       ]
     },
     {
-      "id": "mpaqqb3wq32109czzr",
+      "id": "mpay3u7zz4mq3575hwa",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Discord • Monster Hunter Brasil",
@@ -488,7 +483,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpaqqb3x2mhr0qptq7n",
+      "id": "mpay3u7zntqf3uvy2co",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Academia Monster Hunter Brasil",
@@ -496,10 +491,10 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": ""
+      "fontSize": "14"
     },
     {
-      "id": "mpaqqb3xgcxrlp2r6wp",
+      "id": "mpay3u805m0oeifw6xt",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Schrade Academy",
@@ -507,10 +502,10 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": ""
+      "fontSize": "14"
     },
     {
-      "id": "mpaqqb3xcfy5scqewoq",
+      "id": "mpay3u80j8iofwlh4zh",
       "type": "link",
       "topic": "Apoio",
       "nome": "Livepix • N4K",
@@ -521,7 +516,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpaqqb3xe6o2cx13os",
+      "id": "mpay3u803n46id2t42v",
       "type": "link",
       "topic": "Apoio",
       "nome": "PayPal • N4K",
@@ -532,7 +527,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpaqqb3xlqkd3u1g8a",
+      "id": "mpay3u80q5tqv1u2cy9",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Nuuvem",
@@ -543,7 +538,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpaqqb3x1o9vgzohm8c",
+      "id": "mpay3u80n9vur3kk8fp",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Green Man Gaming",
