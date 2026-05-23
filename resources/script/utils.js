@@ -8,8 +8,12 @@
 function createIconHTML(icon, size = 14) {
   if (!icon || !icon.trim()) return "";
   icon = icon.trim();
-  if (icon.startsWith("fa")) {
-    return `<i class="${icon}" style="font-size:${size}px;flex-shrink:0"></i>`;
+  const { faClass, iconColor, fontSize } = parseIconValue(icon);
+  const resolvedClass = faClass || icon;
+  if (isFaIcon(resolvedClass)) {
+    const fs = fontSize || size;
+    const style = [`font-size:${fs}px`, "flex-shrink:0", iconColor ? `color:${iconColor}` : ""].filter(Boolean).join(";");
+    return `<i class="${resolvedClass}" style="${style}"></i>`;
   }
   // Usa base64 do cache se o arquivo foi carregado localmente
   const src = (typeof localImageCache !== "undefined" && localImageCache[icon])
@@ -98,4 +102,21 @@ function colorToHex(color) {
     return `#${toHex(rgbMatch[1])}${toHex(rgbMatch[2])}${toHex(rgbMatch[3])}`;
   }
   return CSS_COLOR_MAP[color] || "";
+}
+
+function isFaIcon(val) { return (val||"").trim().startsWith("fa"); }
+
+/** Extrai classe FA, cor e fontSize de um valor raw do JSON */
+function parseIconValue(raw) {
+  if (!raw) return { faClass:"", iconColor:"", fontSize:"" };
+  const styleMatch  = raw.match(/style\s*=\s*["']([^"']*)/);
+  const styleStr    = styleMatch ? styleMatch[1] : "";
+  const colorMatch  = styleStr.match(/color:\s*([^;]+)/);
+  const sizeMatch   = styleStr.match(/font-size:\s*([^;]+)/);
+  const faClass     = raw.replace(/["']\s*style=.*$/, "").trim();
+  return {
+    faClass,
+    iconColor: colorMatch ? colorMatch[1].trim() : "",
+    fontSize:  sizeMatch  ? sizeMatch[1].trim().replace("px","") : "",
+  };
 }

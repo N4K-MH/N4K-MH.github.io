@@ -28,7 +28,7 @@
   ],
   "items": [
     {
-      "id": "mpay3u7ndr09ntcp1qt",
+      "id": "mpi0o8zyucms6qzmnwn",
       "type": "folder",
       "nome": "MH Wilds • Base",
       "topic": "Guias de Progressão",
@@ -41,96 +41,126 @@
           "nome": "Playlist de Guias no YouTube",
           "url": "https://youtube.com/playlist?list=PLEx9h8WgyaorivZ7KsXh18TIYoHlGaC-Z&si=fYGAlhvqOIF89oJm",
           "icon": "YTicon.png",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Espadão (GS)",
           "url": "https://docs.google.com/document/d/1e7Z7SZbc1QFCGQOES_wnOL5K1k8_7oyAN776YSXLZL4/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Espada Longa (LS)",
           "url": "https://docs.google.com/document/d/1IfcJdOknpuDxI_6GL7gqbePsgU0s0kPvDQD5vgb_56E/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Espada e Escudo (SnS)",
           "url": "https://docs.google.com/document/d/1Bb0z44s8fO0iQS0ArxUft8qeswWapb2VBiBIInTfrII/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Duplas-Lâminas (DB)",
           "url": "https://docs.google.com/document/d/1ZZRF8XJASyNwRbHiCKMiXrIyIMS-yedOwL87pi1NK44/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Martelo (Hammer)",
           "url": "https://docs.google.com/document/d/19WNuDeDHTWFkhtaVlD32JgueJiugjNGW6LCT9Hi49Mg/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Berrante de Caça (HH)",
           "url": "https://docs.google.com/document/d/1GWb532e9Pd97Shsr9ULl6AqN3TBtAoqYWUSleLjSthw/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Lança (Lance)",
           "url": "https://docs.google.com/document/d/1XkvxdFM2bCsFzffJQn-vR2Cwdc-iReYMSN8Qpq3eCZs/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Lançarma (GL)",
           "url": "https://docs.google.com/document/d/1_DtbNNpVg_KJTJuY5WZkL2cE7HRJR4KSIe2Oe68fBus/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Transmachado (SwAxe)",
           "url": "https://docs.google.com/document/d/14iacEFiYckdrw-SgtLdQR3C_KhNWVGhcQOLUiB8x5Hs/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Lâmina Dínamo (CB)",
           "url": "https://docs.google.com/document/d/1ybFbirrFtKdkEXejuFi_j4ZJGEBfMbmHF8hgs4NTH4A/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Glaive Inseto (IG)",
           "url": "https://docs.google.com/document/d/1IgkcmrRylLAeEiv1hHAlwCvJosNSQQOKKcGxi6a1yMw/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Leve (LBG)",
           "url": "https://docs.google.com/document/d/1jRiN2Sl2tF3vjOkQQ2n2R3DLQcZCagHbqaTkaAKN7SQ/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Pesado (HBG)",
           "url": "https://docs.google.com/document/d/1fizikibjkJjpFjDMizNTn0TiQLtehUzhH2UgSTIfcGU/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         },
         {
           "nome": "Arco (Bow)",
           "url": "https://docs.google.com/document/d/1X_zLE-9IT08s7PKF9PeGaN5hz2YQ0Yt10OT_ett4BaY/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp",
-          "textColor": "rgb(225, 170, 70)"
+          "iconColor": "",
+          "textColor": "rgb(225, 170, 70)",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7q8747rq079n7",
+      "id": "mpi0o900ncfpcg6qy0m",
       "type": "folder",
       "nome": "MH Rise • Base",
       "topic": "Guias de Progressão",
@@ -143,90 +173,118 @@
           "nome": "Espadão (GS)",
           "url": "https://imgur.com/a/eqDRcuk",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Espada Longa (LS)",
           "url": "https://imgur.com/a/dw1jErl",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Espada e Escudo (SnS)",
           "url": "https://imgur.com/a/9MDKaZi",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Duplas-Lâminas (DB)",
           "url": "https://imgur.com/a/wEVQsvE",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Martelo (Hammer)",
           "url": "https://imgur.com/a/QzHQHV6",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Berrante de Caça (HH)",
           "url": "https://imgur.com/a/dh4B00M",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Lança (Lance)",
           "url": "https://imgur.com/a/ss1DR3U",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Lançarma (GL)",
           "url": "https://imgur.com/a/8s899lW",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Transmachado (SwAxe)",
           "url": "https://imgur.com/a/X0lzvsl",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Lâmina Dínamo (CB)",
           "url": "https://imgur.com/a/MMxWSzT",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Glaive Inseto (IG)",
           "url": "https://imgur.com/a/qynAeAN",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Leve (LBG)",
           "url": "https://imgur.com/a/ncf2zKY",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Pesado (HBG)",
           "url": "https://imgur.com/a/KQqT0zW",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         },
         {
           "nome": "Arco (Bow)",
           "url": "https://imgur.com/a/5x7DYK5",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp",
-          "textColor": "rgb(80, 115, 220)"
+          "iconColor": "",
+          "textColor": "rgb(80, 115, 220)",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7tds74m4vk6mp",
+      "id": "mpi0o903fkkr59qoei7",
       "type": "folder",
       "nome": "MH Rise • Sunbreak",
       "topic": "Guias de Progressão",
@@ -238,12 +296,15 @@
         {
           "nome": "🐲Fatalis trabalhando...👷‍♂️",
           "url": "",
-          "textColor": "rgb(240, 100, 90)"
+          "icon": "",
+          "iconColor": "",
+          "textColor": "rgb(240, 100, 90)",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7t3wlr4640d3b",
+      "id": "mpi0o904ype7bszjma",
       "type": "folder",
       "nome": "MH World • Base",
       "topic": "Guias de Progressão",
@@ -256,90 +317,118 @@
           "nome": "Espadão (GS)",
           "url": "https://docs.google.com/document/d/14J7ibFL5zqACvrjazg-jET0ceb0fJ9KMYmtahSops1w/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Espada Longa (LS)",
           "url": "https://imgur.com/a/ug89oUc",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Espada e Escudo (SnS)",
           "url": "https://imgur.com/a/p3Gtkho",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Duplas-Lâminas (DB)",
           "url": "https://imgur.com/a/IHpRlZR",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Martelo (Hammer)",
           "url": "https://imgur.com/a/q1xB1HK",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Berrante de Caça (HH)",
           "url": "https://imgur.com/a/vHjIa7c",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Lança (Lance)",
           "url": "https://imgur.com/a/8Mz0r0Z",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Lançarma (GL)",
           "url": "https://imgur.com/a/zkoeYO3",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Transmachado (SwAxe)",
           "url": "https://imgur.com/a/YKzqo8f",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Lâmina Dínamo (CB)",
           "url": "https://imgur.com/a/KjqIGLU",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Glaive Inseto (IG)",
           "url": "https://imgur.com/a/AXEt147",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Leve (LBG)",
           "url": "https://imgur.com/a/qx5bpiw",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Pesado (HBG)",
           "url": "https://imgur.com/a/5e9Un7G",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         },
         {
           "nome": "Arco (Bow)",
           "url": "https://imgur.com/a/mzOzPPe",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp",
-          "textColor": "rgb(222, 222, 222)"
+          "iconColor": "",
+          "textColor": "rgb(222, 222, 222)",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7wb05ds290j25",
+      "id": "mpi0o906mppri6hsl1",
       "type": "folder",
       "nome": "MH World • Iceborne",
       "topic": "Guias de Progressão",
@@ -352,90 +441,118 @@
           "nome": "Espadão (GS)",
           "url": "https://docs.google.com/document/d/1s-KG_mTRGSAUvNd95nu6q6erQdPiW_8NdL6Ty-aYeQg/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Great_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Espada Longa (LS)",
           "url": "https://docs.google.com/document/d/1mzA4kE0ANBsEYazKJWP8mfLI6xpuOKO4Ld0tYRckg9s/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Long_Sword_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Espada e Escudo (SnS)",
           "url": "https://docs.google.com/document/d/1shHh7Zn3nPMJSwues_nTysfJiHNVMxeEwnBf4Fdqpf4/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Sword_and_Shield_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Duplas-Lâminas (DB)",
           "url": "https://docs.google.com/document/d/1pyyAQVG_F3y_Pnc5bdB9hor06J6pk1gUpjvOaa4MdJw/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Dual_Blades_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Martelo (Hammer)",
           "url": "https://docs.google.com/document/d/1eIeDw7sWhFfrI6u-qS8DH4r1s5iuAV4A5_gLGOUjIn8/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hammer_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Berrante de Caça (HH)",
           "url": "https://docs.google.com/document/d/1m8rz3ebwoPOOccyxzcaunPQ1FIJmE8l6LZ1aY8yF_Po/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Hunting_Horn_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Lança (Lance)",
           "url": "https://docs.google.com/document/d/1rR2kNYesnfUn95epUZyXMUNTslE_LQaxgtemMmdiiZs/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Lance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Lançarma (GL)",
           "url": "https://docs.google.com/document/d/11eMD1nqVU26W3EvD4hMSql3T7DMvClkPde2h_yCCPeI/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Gunlance_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Transmachado (SwAxe)",
           "url": "https://docs.google.com/document/d/11l3dMGWjqt9FLjfTuM8Cky9xP2fSDaeBTKYBoLRhrZc/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Switch_Axe_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Lâmina Dínamo (CB)",
           "url": "https://docs.google.com/document/d/1FroAB80UfvWVRowkRjcoMe3Igsd8Y98xJ1heV8ZSisQ/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Charge_Blade_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Glaive Inseto (IG)",
           "url": "https://docs.google.com/document/d/1qDaxmk85OlPDNvWmvlVoj76lC7akZQHHmTqTCcMZNdI/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Insect_Glaive_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Leve (LBG)",
           "url": "https://docs.google.com/document/d/1QBmJBSUf8GN9pk2v4yFfCXS4VJ-ZMMFCWfcYtr47ze4/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Light_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Fuzilarco Pesado (HBG)",
           "url": "https://docs.google.com/document/d/1VGxepp8z8VZNyAFHyt3MelNi5SiBY-fJDy0qvm2nhmA/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Heavy_Bowgun_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         },
         {
           "nome": "Arco (Bow)",
           "url": "https://docs.google.com/document/d/17-a24LyW-qAJQNGNMbKu-eQSJNZPMoX_JLTsFB7ypds/edit?usp=sharing",
           "icon": "./resources/icons/MHIcons/40px-MHWI-Bow_Icon_Rare_2.png.webp",
-          "textColor": "rgb(20, 130, 200)"
+          "iconColor": "",
+          "textColor": "rgb(20, 130, 200)",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7y2be4l1sejst",
+      "id": "mpi0o9092z79s5yd30v",
       "type": "folder",
       "nome": "Speedrunners BRs",
       "topic": "Parceiros MHBR",
@@ -447,32 +564,55 @@
         {
           "nome": "Nix • CB",
           "url": "https://www.youtube.com/@mh_nix",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
         },
         {
           "nome": "Hills • GS",
           "url": "https://www.youtube.com/@hills4359",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
         },
         {
           "nome": "Sleepy • DB",
           "url": "https://www.youtube.com/@SleepyDB",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
         },
         {
           "nome": "DanielS • LS",
           "url": "https://www.youtube.com/@Hunter_DanielS",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
+        },
+        {
+          "nome": "Ralph • LS",
+          "url": "https://www.youtube.com/@ralph8589",
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
         },
         {
           "nome": "Persona Vergil (Kingwel) • Sim",
           "url": "https://www.youtube.com/@Kingwel/playlists",
-          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);"
+          "icon": "fab fa-youtube\" style=\"color: rgb(225, 170, 70);",
+          "iconColor": "rgb(225, 170, 70)",
+          "textColor": "",
+          "fontSize": ""
         }
       ]
     },
     {
-      "id": "mpay3u7zz4mq3575hwa",
+      "id": "mpi0o90ashlj2c0lsze",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Discord • Monster Hunter Brasil",
@@ -483,7 +623,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpay3u7zntqf3uvy2co",
+      "id": "mpi0o90avm5fjvcel0h",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Academia Monster Hunter Brasil",
@@ -491,10 +631,10 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": "14"
+      "fontSize": ""
     },
     {
-      "id": "mpay3u805m0oeifw6xt",
+      "id": "mpi0o90abpdtlp7xf1d",
       "type": "link",
       "topic": "Parceiros MHBR",
       "nome": "Schrade Academy",
@@ -502,10 +642,10 @@
       "icon": "YTicon.png",
       "iconColor": "",
       "textColor": "",
-      "fontSize": "14"
+      "fontSize": ""
     },
     {
-      "id": "mpay3u80j8iofwlh4zh",
+      "id": "mpi0o90b84c8oukbjp9",
       "type": "link",
       "topic": "Apoio",
       "nome": "Livepix • N4K",
@@ -516,7 +656,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpay3u803n46id2t42v",
+      "id": "mpi0o90baph633bx7zn",
       "type": "link",
       "topic": "Apoio",
       "nome": "PayPal • N4K",
@@ -527,7 +667,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpay3u80q5tqv1u2cy9",
+      "id": "mpi0o90b09o0pufupdg",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Nuuvem",
@@ -538,7 +678,7 @@
       "fontSize": "14"
     },
     {
-      "id": "mpay3u80n9vur3kk8fp",
+      "id": "mpi0o90b5hl94yzmpbf",
       "type": "link",
       "topic": "Apoio",
       "nome": "Afiliado Green Man Gaming",
